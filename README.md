@@ -1,2 +1,2 @@
 # Team1A
-Acacius, Jonathan, Hunter, Chris
+Acacius, Jonathan, Hunter, Chris, Cassie
